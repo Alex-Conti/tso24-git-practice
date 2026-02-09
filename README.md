@@ -1,5 +1,4 @@
- HEAD
-tso24Alex Conti
+tso24 Alex Conti
 Alex Conti tso24
 conflict-test
 Sewing
